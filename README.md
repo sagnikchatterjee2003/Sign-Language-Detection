@@ -1,6 +1,6 @@
 This project is about the implementation of Sign Language Detection and translating them into english alphabets.
 
-Accuracy Score of the model: 100.00% (Not Overfitting)
+<bold>Accuracy Score of the model:</bold> 100.00% (Not Overfitting)
 
 DataSet Used:-
 1.  American Sign Language (Available in the repository)
